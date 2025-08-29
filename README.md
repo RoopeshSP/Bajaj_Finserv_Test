@@ -52,7 +52,7 @@ npm run dev
   "alphabets": ["M", "B", "A", "AA", "B"],
   "special_characters": ["$"],
   "sum": "340",
-  "concat_string": "MBAAB"
+  "concat_string": "BaABm"
 }
 ```
 
@@ -94,4 +94,5 @@ The API is ready to be deployed to:
 ✅ Concatenated string from alphabets  
 ✅ Proper error handling  
 ✅ CORS enabled for cross-origin requests  
+
 ✅ Input validation 
